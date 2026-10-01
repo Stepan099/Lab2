@@ -1,0 +1,2 @@
+Zakazy
+id_zakaza; id_klienta; data_zakaza; srok_vypolneniya; summa
