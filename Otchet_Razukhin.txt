@@ -1,0 +1,4 @@
+Prakticheskaya rabota 2
+Avtor: Razukhin S. D., TIP-53
+Tema BD: Sborka kompyuterov pod zakaz
+Tablitsy: Klienty, Komplektuyushchie, Zakazy, Sostav_zakaza, Sborki
