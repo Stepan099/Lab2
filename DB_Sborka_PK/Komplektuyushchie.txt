@@ -1,0 +1,2 @@
+Komplektuyushchie
+id_komplektuyushchego; nazvanie; tip; proizvoditel; tsena; kolichestvo
