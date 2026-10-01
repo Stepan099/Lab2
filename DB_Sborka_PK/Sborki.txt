@@ -1,0 +1,2 @@
+Sborki
+id_sborki; id_zakaza; data_sborki; master; rezultat_testirovaniya
