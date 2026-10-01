@@ -1,0 +1,2 @@
+Klienty
+id_klienta; familiya; imya; telefon; email
