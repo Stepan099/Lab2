@@ -1,0 +1,2 @@
+Sostav_zakaza
+id_sostava; id_zakaza; id_komplektuyushchego; kolichestvo; tsena
